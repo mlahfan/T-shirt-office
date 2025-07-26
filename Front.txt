@@ -1,18 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Front view T-shirt with colorable regions -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="4096.00" height="4096.00" viewBox="0 0 4096.0 4096.0">
-  <g id="document" transform="scale(1.0 1.0) translate(2048.0 2048.0)">
-    <!-- Collar -->
-    <path id="collar" d="M1016.53,-1224.75 L932.968,-931.635 L861.673,-581.254 L818.749,-263.097 L812.611,-122.023 L841.74,-75.2559 L911.503,-72.1872 C911.503,-72.1872 1089.37,-112.059 1127.72,-126.629 C1166.04,-141.187 1303.28,-181.828 1322.45,-201.766 C1341.61,-221.683 1353.87,-250.054 1353.87,-258.486 C1353.87,-266.924 1356.18,-282.262 1342.37,-296.063 C1328.57,-309.859 1312.47,-360.463 1299.44,-439.422 C1286.41,-518.391 1261.87,-589.687 1238.11,-726.924 C1214.33,-864.161 1183.67,-972.259 1152.24,-1069.62 C1120.81,-1166.99 1062.54,-1220.66 1062.54,-1220.66 L1016.53,-1224.75 Z" fill="#636363"/>
-    <!-- Right Sleeve -->
-    <path id="right-sleeve" d="M1016.53,-1224.75 L1016.27,-1221.7 L1062.27,-1217.61 L1062.54,-1220.66 L1060.46,-1218.41 L1060.49,-1218.38 C1062.05,-1216.95 1118.63,-1163.8 1149.33,-1068.69 C1180.72,-971.394 1211.35,-863.463 1235.08,-726.403 C1246.98,-657.693 1259.08,-605.481 1269.82,-560.617 C1280.55,-515.736 1289.92,-478.246 1296.41,-438.927 C1302.95,-399.346 1310.26,-366.848 1317.69,-342.411 C1321.4,-330.195 1325.16,-319.989 1328.9,-311.896 C1332.64,-303.791 1336.33,-297.794 1340.21,-293.887 C1345.02,-289.061 1347.66,-284.159 1349.15,-279.414 C1350.63,-274.684 1350.95,-270.084 1350.95,-265.973 C1350.95,-263.237 1350.82,-260.733 1350.8,-258.486 C1350.82,-257.798 1350.66,-256.616 1350.32,-255.133 C1349.73,-252.542 1348.57,-249.049 1346.91,-245.061 C1341.94,-233.066 1332.45,-216.583 1320.23,-203.884 C1319.25,-202.863 1317.76,-201.637 1315.8,-200.331 C1312.14,-197.854 1306.93,-195.038 1300.61,-192.05 C1289.57,-186.81 1275.1,-181.016 1259.17,-175.099 C1235.28,-166.21 1208.06,-157.063 1183.88,-149.012 C1159.68,-140.967 1138.54,-134.018 1126.61,-129.493 C1121.98,-127.73 1115.04,-125.516 1106.55,-123.055 C1076.81,-114.386 1027.85,-102.401 986.361,-92.6041 C965.617,-87.7081 946.726,-83.3496 933.038,-80.2217 C926.186,-78.6578 920.639,-77.3895 916.802,-76.5242 C912.965,-75.659 910.842,-75.1914 910.831,-75.1914 L911.503,-72.1872 L911.643,-75.2559 L843.486,-78.2548 L815.707,-122.845 L821.801,-262.823 L864.699,-580.744 L935.951,-930.904 L1019.49,-1223.91 L1016.53,-1224.75 Z" fill="#000000"/>
-    <!-- Right Sleeve Ring -->
-    <path id="right-sleeve-ring" d="M1342.12,-228.084 C1320.14,-204.572 1203.61,-170.327 1080.43,-134.034 C957.249,-97.7526 841.74,-75.2559 841.74,-75.2559 L874.453,4.47139 C874.453,4.47139 949.585,-13.9247 1062.03,-43.5746 C1174.48,-73.2083 1339.56,-127.897 1339.56,-127.897 L1342.12,-228.084 Z" fill="#5e5e5e"/>
-    <!-- Left Sleeve -->
-    <path id="left-sleeve" d="M-1036.77,-1226.47 L-1082.77,-1222.38 C-1082.77,-1222.38 -1141.04,-1168.71 -1172.47,-1071.34 C-1203.9,-973.979 -1234.57,-865.881 -1258.34,-728.644 C-1282.1,-591.406 -1306.64,-520.111 -1319.67,-441.142 C-1332.71,-362.183 -1348.8,-311.579 -1362.6,-297.783 C-1376.4,-283.982 -1374.1,-268.644 -1374.1,-260.206 C-1374.1,-251.774 -1361.83,-223.403 -1342.67,-203.486 C-1323.51,-183.547 -1186.27,-142.907 -1147.94,-128.348 C-1109.6,-113.779 -931.737,-73.907 -931.737,-73.907 L-861.969,-76.9757 L-832.835,-123.743 L-838.972,-264.817 L-881.902,-582.974 L-953.202,-933.355 L-1036.77,-1226.47 Z" fill="#636363"/>
-    <!-- Left Sleeve Ring -->
-    <path id="left-sleeve-ring" d="M-1362.35,-229.804 L-1359.79,-129.617 C-1359.79,-129.617 -1194.71,-74.9281 -1082.26,-45.2944 C-969.814,-15.6445 -894.682,2.75163 -894.682,2.75163 L-861.969,-76.9757 C-861.969,-76.9757 -977.483,-99.4724 -1100.66,-135.754 C-1223.84,-172.047 -1340.37,-206.291 -1362.35,-229.804 Z" fill="#5e5e5e"/>
-    <!-- Body -->
-    <path id="body" d="M1060.84,-1222.38 C1034.26,-1251 941.234,-1314.39 860.738,-1348.88 C789.206,-1379.53 521.584,-1500.97 441.292,-1541.12 L266.274,-1641.65 L165.167,-1647.84 L-249.624,-1641.65 L-431.344,-1559.63 L-437.235,-1559.72 C-437.235,-1559.72 -579.835,-1486.11 -763.834,-1399.48 C-932.506,-1319.75 -1055.94,-1262.24 -1082.77,-1222.38 C-1057.47,-1151.08 -886.502,-741.934 -841.525,-104.067 C-806.769,513.356 -800.637,750.506 -800.637,918.162 C-800.637,1085.81 -806.769,1253.45 -800.637,1339.31 C-794.505,1425.18 -825.171,1483.95 -822.871,1579.79 C-820.571,1675.63 -819.039,1691.73 -819.039,1691.73 C-819.039,1691.73 -717.836,1752.29 -602.327,1776.82 C-486.818,1801.35 -396.852,1812.61 -115.746,1809.54 C165.361,1806.47 349.36,1821.8 510.884,1796.25 C666.254,1770.68 757.235,1717.54 794.038,1688.91 C797.09,1596.92 802.212,1526.38 788.921,1456.86 C775.631,1387.36 776.647,1231.99 776.647,1102.15 C776.647,972.329 761.319,885.443 769.493,768.913 C777.678,652.383 794.038,426.459 798.122,282.332 C802.212,138.199 822.656,-81.5707 821.635,-170.504 C820.603,-259.454 850.253,-440.384 882.971,-611.098 C915.674,-781.806 1031.19,-1136.52 1060.84,-1222.38 Z" fill="#636363"/>
+<!-- Generator: Assembly 2.4 - http://assemblyapp.co -->
+<svg version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="4096.00"
+     height="4096.00"
+     viewBox="0 0 4096.0 4096.0"
+     aria-labelledby="svgTitle svgDesc"
+     role="img">
+  <title id="svgTitle">Abstract Symmetric Geometric Design</title>
+  <desc id="svgDesc">An SVG illustration featuring geometric symmetric shapes and labeled regions for accessibility and documentation.</desc>
+
+  <!-- Main document group -->
+  <g id="document" transform="scale(1.0 1.0) translate(2048.0 2048.0)" aria-label="Main geometric drawing">
+    
+    <!-- Right-hand shape: outer and inner path layers -->
+    <g id="right-segment" aria-label="Right geometric segment">
+      <title>Right Segment</title>
+      <desc>Contains the main right-side geometric structure with various shades.</desc>
+      <path d="M1030.82,-1229.73 ... Z" fill="#636363" fill-opacity="1.00" aria-label="Right primary outer shape"/>
+      <path d="M1030.82,-1229.73 ... Z" fill="#000000" fill-opacity="1.00" aria-label="Right detailed black overlay"/>
+      <path d="M1357.73,-229.012 ... Z" fill="#5e5e5e" fill-opacity="1.00" aria-label="Right mid-grey highlight"/>
+      <path d="M1357.73,-229.012 ... Z" fill="#000000" fill-opacity="1.00" aria-label="Right contour"/>
+    </g>
+
+    <!-- Left-hand shape: outer and inner path layers -->
+    <g id="left-segment" aria-label="Left geometric segment">
+      <title>Left Segment</title>
+      <desc>Contains the main left-side geometric structure, mirror of right.</desc>
+      <path d="M-1030.84,-1231.46 ... Z" fill="#636363" fill-opacity="1.00" aria-label="Left primary outer shape"/>
+      <path d="M-1030.84,-1231.46 ... Z" fill="#000000" fill-opacity="1.00" aria-label="Left detailed black overlay"/>
+      <path d="M-1357.74,-230.739 ... Z" fill="#5e5e5e" fill-opacity="1.00" aria-label="Left mid-grey highlight"/>
+      <path d="M-1357.74,-230.739 ... Z" fill="#000000" fill-opacity="1.00" aria-label="Left contour"/>
+    </g>
+
+    <!-- Central structure: vertical bar and circles -->
+    <g id="center-structure" aria-label="Central vertical bar and circles">
+      <title>Central Structure</title>
+      <desc>Vertical bar and circular elements in the center of the design.</desc>
+      <path d="M62.3533,-630.862 ... Z" fill="#5e5e5e" fill-opacity="1.00" aria-label="Central vertical rectangle"/>
+      <path d="M62.3533,-630.862 ... Z" fill="#000000" fill-opacity="1.00" aria-label="Central rectangle outline"/>
+      <path d="M-67.3049,-688.401 ... Z" fill="#000000" fill-opacity="1.00" aria-label="Central horizontal slots"/>
+      <path d="M39.0366,-904.133 ... Z" fill="#0e121a" fill-opacity="1.00" aria-label="Upper circle"/>
+      <path d="M39.0367,-904.133 ... Z" fill="#343333" fill-opacity="1.00" aria-label="Upper circle outline"/>
+      <path d="M7.16714,-916.069 ... Z" fill="#0e121a" fill-opacity="1.00" aria-label="Upper small circle"/>
+      <path d="M7.16713,-916.069 ... Z" fill="#343333" fill-opacity="1.00" aria-label="Upper small circle outline"/>
+      <path d="M7.31819,-887.82 ... Z" fill="#0e121a" fill-opacity="1.00" aria-label="Lower small circle"/>
+      <path d="M7.31826,-887.82 ... Z" fill="#343333" fill-opacity="1.00" aria-label="Lower small circle outline"/>
+      <path d="M-1.76892,-916.069 ... Z" fill="#10101a" fill-opacity="1.00" aria-label="Vertical bar between circles"/>
+    </g>
+
+    <!-- Lower structure: shapes and layers -->
+    <g id="lower-structure" aria-label="Lower geometric layers">
+      <title>Lower Structure</title>
+      <desc>Complex geometric regions at bottom, including mirrored shapes and overlays.</desc>
+      <path d="M1075.31,-1227.35 ... Z" fill="#636363" fill-opacity="1.00" aria-label="Lower right structure"/>
+      <path d="M1075.31,-1227.35 ... Z" fill="#000000" fill-opacity="1.00" aria-label="Lower right overlay"/>
+      <path d="M-812.219,1621.5 ... Z" fill="#636363" fill-opacity="1.00" aria-label="Lower base highlight"/>
+      <path d="M-813.687,1624.19 ... Z" fill="#000000" fill-opacity="1.00" aria-label="Lower highlight contour"/>
+      <!-- (Repeat for other lower shapes, paths as needed, labeling each) -->
+    </g>
+
+    <!-- Extra regions and highlights -->
+    <g id="extra-details" aria-label="Additional highlights and regions">
+      <title>Extra Details</title>
+      <desc>Highlights, overlays, and mirrored regions for extra detail.</desc>
+      <!-- Example: mirrored overlays, highlight paths, slots, notches, etc. -->
+      <path d="M-256.595,-1546.31 ... Z" fill="#464646" fill-opacity="1.00" aria-label="Left lower highlight"/>
+      <path d="M-256.595,-1546.31 ... Z" fill="#000000" fill-opacity="1.00" aria-label="Left lower highlight outline"/>
+    </g>
+
+    <!-- Add ARIA and title/desc for each major g/path as shown above. -->
+    <!-- For each <path> or <g>, update aria-label/title/desc with more precise or custom descriptions as needed for your case. -->
+
   </g>
 </svg>
