@@ -8,7 +8,7 @@
     .color-controls { margin: 20px auto; display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; }
     .color-controls label { font-size: 15px; }
     .color-controls input[type="color"] { width: 36px; height: 36px; border: none; vertical-align: middle; }
-    #tshirt-svg { background: #fff; border-radius: 10px; box-shadow: 0 2px 12px #0001; }
+    #designfront-svg { background: #fff; border-radius: 10px; box-shadow: 0 2px 12px #0001; }
   </style>
 </head>
 <body>
@@ -22,7 +22,7 @@
     <label>Body <input type="color" id="body-color" value="#636363"></label>
     <button id="reset-btn" style="margin-left:15px">Reset</button>
   </div>
-  <svg id="tshirt-svg" width="400" viewBox="0 0 4096 4096">
+  <svg id="designfront-svg" width="400" viewBox="0 0 4096 4096">
     <g id="document" transform="scale(1.0 1.0) translate(2048.0 2048.0)">
       <!-- Collar -->
       <path id="collar" d="M1030.22,-1227.5 L946.648,-934.387 L875.353,-584.006 L832.418,-265.849 L826.281,-124.774 L855.42,-78.0075 L925.189,-74.9388 C925.189,-74.9388 1103.05,-114.811 1141.39,-129.38 C1179.71,-143.939 1316.95,-184.579 1336.12,-204.518 C1355.28,-224.435 1367.55,-252.806 1367.55,-261.238 C1367.55,-269.676 1369.85,-285.014 1356.05,-298.815 C1342.25,-312.611 1326.15,-363.215 1313.11,-442.174 C1300.08,-521.143 1275.55,-592.438 1251.78,-729.676 C1228.02,-866.913 1197.35,-975.011 1165.91,-1072.38 C1134.49,-1169.74 1076.22,-1223.42 1076.22,-1223.42 L1030.22,-1227.5 Z" fill="#636363"/>
